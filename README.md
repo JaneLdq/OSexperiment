@@ -1,2 +1,2 @@
 # OSexperiment
-Experiments of Computer and Operating System。
+Experiments of Computer and Operating System.
